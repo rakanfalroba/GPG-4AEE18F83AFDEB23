@@ -1,2 +1,2 @@
-# Rakanfalroba
-https://github.com/Rakanfalroba/GPG-4AEE18F83AFDEB23/tree/Rakanfalroba-patch-1
+# Kornphan
+https://github.com/Kornphan/GPG-4AEE18F83AFDEB23/tree/Kornphan-master
